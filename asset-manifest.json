@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginform.github.io/static/css/main.315de73d.css",
+    "main.js": "/loginform.github.io/static/js/main.ec64374b.js",
+    "static/js/592.5618a8d2.chunk.js": "/loginform.github.io/static/js/592.5618a8d2.chunk.js",
+    "index.html": "/loginform.github.io/index.html",
+    "main.315de73d.css.map": "/loginform.github.io/static/css/main.315de73d.css.map",
+    "main.ec64374b.js.map": "/loginform.github.io/static/js/main.ec64374b.js.map",
+    "592.5618a8d2.chunk.js.map": "/loginform.github.io/static/js/592.5618a8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315de73d.css",
+    "static/js/main.ec64374b.js"
+  ]
+}
